@@ -1,0 +1,41 @@
+[
+  {
+    "id": "72cd3ced-b301-49a4-b1c0-542602c12a48",
+    "data": [
+      {
+        "text": "meat option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d72ca26c-6ea5-47f6-a40b-1d6c2ccd15a4",
+    "data": [
+      {
+        "text": "I would like to order veg menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9813a8b0-b9bb-44f3-9ae9-7a17b19ae378",
+    "data": [
+      {
+        "text": "special menu please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

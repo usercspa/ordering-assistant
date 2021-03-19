@@ -1,0 +1,70 @@
+{
+  "id": "7f048fad-b122-47ee-999c-2e726802d573",
+  "parentId": "fa8faca2-46f2-4c0b-bbdc-0e7cc64e9b81",
+  "rootParentId": "fa8faca2-46f2-4c0b-bbdc-0e7cc64e9b81",
+  "name": "ordering - drinks",
+  "auto": true,
+  "contexts": [
+    "ordering-followup",
+    "order_drinks"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ordering.ordering-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "671c21f5-ce1c-4da4-b6a4-b01f84c69e9a",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "225f04d3-7edd-4bed-8a4a-bcf89845b1e0",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your order has been placed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

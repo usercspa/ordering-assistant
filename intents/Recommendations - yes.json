@@ -1,0 +1,44 @@
+{
+  "id": "bd101b82-8d18-43d0-a8ed-3e319684eb83",
+  "parentId": "73324a9b-891c-42e1-a58d-e7c6bdc56f12",
+  "rootParentId": "73324a9b-891c-42e1-a58d-e7c6bdc56f12",
+  "name": "Recommendations - yes",
+  "auto": true,
+  "contexts": [
+    "Recommendations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendations.Recommendations-yes",
+      "affectedContexts": [
+        {
+          "name": "Recommendations-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Noted. Would you like anything else?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

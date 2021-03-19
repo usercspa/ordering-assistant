@@ -1,0 +1,40 @@
+{
+  "id": "11eaef81-a5ec-45cf-b138-4373ebcaf6e5",
+  "parentId": "78aa2853-c5c2-4498-97f6-f1fdab9bf9d4",
+  "rootParentId": "78aa2853-c5c2-4498-97f6-f1fdab9bf9d4",
+  "name": "vegan - yes",
+  "auto": true,
+  "contexts": [
+    "vegan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "vegan.vegan-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool. Your order has been placed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

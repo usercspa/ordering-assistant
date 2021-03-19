@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f727b769-1970-4dc6-a5a4-6c7ac2b089e1",
+    "data": [
+      {
+        "text": "any drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f92765e7-2992-4425-a947-23f80be5e682",
+    "data": [
+      {
+        "text": "drinks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25a76e41-0401-4638-9eb7-117d85e62dca",
+    "data": [
+      {
+        "text": "no drinks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

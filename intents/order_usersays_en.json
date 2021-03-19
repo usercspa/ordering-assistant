@@ -1,0 +1,41 @@
+[
+  {
+    "id": "305668f3-1a01-4ada-9fac-048b51b39620",
+    "data": [
+      {
+        "text": "I would like to place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95d21a45-c139-47a0-8db9-aad940894363",
+    "data": [
+      {
+        "text": "I would like to order some food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af3621ec-98cb-4b12-95d1-6990d7dc6e70",
+    "data": [
+      {
+        "text": "Order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

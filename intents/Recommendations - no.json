@@ -1,0 +1,39 @@
+{
+  "id": "3d6608d3-72aa-42e1-99f3-9a8a04e2a80d",
+  "parentId": "73324a9b-891c-42e1-a58d-e7c6bdc56f12",
+  "rootParentId": "73324a9b-891c-42e1-a58d-e7c6bdc56f12",
+  "name": "Recommendations - no",
+  "auto": true,
+  "contexts": [
+    "Recommendations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendations.Recommendations-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What would you like?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6b93d2c2-6785-4fe0-9adc-ea0e576a3359",
+    "data": [
+      {
+        "text": "what is in the special menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "115a0b50-26c8-496b-aa81-22905d46e6bd",
+    "data": [
+      {
+        "text": "tell me about the special menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ee7ced7-d821-44de-8a72-ffdcaa702225",
+    "data": [
+      {
+        "text": "chef specials?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82e1d693-c4b1-4894-878a-2e4c1cbbbf83",
+    "data": [
+      {
+        "text": "what do you recommend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac985ec5-7659-4b4f-b245-0947762ad875",
+    "data": [
+      {
+        "text": "any recommendations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

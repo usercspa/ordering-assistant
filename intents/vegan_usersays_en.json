@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7678818e-c444-431e-a039-7d069d8c3fe0",
+    "data": [
+      {
+        "text": "veg menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe66ac5-8f91-442f-8709-41f0b45bef47",
+    "data": [
+      {
+        "text": "vegetarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "601d5e21-8a90-4565-a869-d57007f459ef",
+    "data": [
+      {
+        "text": "veg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "654b8239-576d-4af5-8679-51b94aec65a8",
+    "data": [
+      {
+        "text": "no meat please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0ea9ba1-c94f-48c3-a069-1f359d40f7f7",
+    "data": [
+      {
+        "text": "i am a vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68c1b5f1-20bf-4485-998a-e5f7c68dccfe",
+    "data": [
+      {
+        "text": "any veg options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

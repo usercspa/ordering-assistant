@@ -1,0 +1,42 @@
+{
+  "id": "ca5fcd94-3ced-4bcf-a3a8-333ec03f5817",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! Would you like to order some food or drinks? Please say ORDER to start ordering",
+            "Hello! Would you like to order some food or drinks? Please say ORDER to start ordering",
+            "Good day! Would you like to order some food or drinks? Please say ORDER to start ordering",
+            "Greetings! Would you like to order some food or drinks? Please say ORDER to start ordering"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

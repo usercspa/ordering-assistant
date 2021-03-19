@@ -1,0 +1,54 @@
+[
+  {
+    "id": "03a16aac-af6b-4295-adec-b4a66910597f",
+    "data": [
+      {
+        "text": "discounts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a60d497-0089-4fa8-841e-3e5244e92914",
+    "data": [
+      {
+        "text": "any coupons?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91834251-5e65-452d-baa9-0247b4a53247",
+    "data": [
+      {
+        "text": "any discount for students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5473ce2-3b2d-44c9-8ae9-87543cf929d8",
+    "data": [
+      {
+        "text": "any discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

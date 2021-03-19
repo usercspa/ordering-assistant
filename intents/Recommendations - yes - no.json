@@ -1,0 +1,39 @@
+{
+  "id": "fd86573c-7a70-4dcb-a1f8-fa9d5001398b",
+  "parentId": "bd101b82-8d18-43d0-a8ed-3e319684eb83",
+  "rootParentId": "73324a9b-891c-42e1-a58d-e7c6bdc56f12",
+  "name": "Recommendations - yes - no",
+  "auto": true,
+  "contexts": [
+    "Recommendations-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Recommendations.Recommendations-yes.Recommendations-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Got it. Your order has been placed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

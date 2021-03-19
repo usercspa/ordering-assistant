@@ -1,0 +1,39 @@
+{
+  "id": "a00ffb81-634c-4488-aa75-e10ef4440eab",
+  "parentId": "78aa2853-c5c2-4498-97f6-f1fdab9bf9d4",
+  "rootParentId": "78aa2853-c5c2-4498-97f6-f1fdab9bf9d4",
+  "name": "vegan - no",
+  "auto": true,
+  "contexts": [
+    "vegan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "vegan.vegan-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What would you like?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

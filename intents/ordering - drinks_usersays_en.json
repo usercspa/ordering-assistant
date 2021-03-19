@@ -1,0 +1,167 @@
+[
+  {
+    "id": "aa51b990-05b2-4c37-a575-6609d33e9196",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "red wine",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82b628fc-606b-44a8-bd12-04c3c97cdada",
+    "data": [
+      {
+        "text": "apple juice please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1147fd26-d1e9-4865-82c5-5ebbecc7beab",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "-up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d3067df-f923-4c0a-9df6-918ed290f863",
+    "data": [
+      {
+        "text": "coca cola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "395eb43d-f5b9-4201-85b3-dfca25380c40",
+    "data": [
+      {
+        "text": "apple juice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06e47d33-901f-41dd-ab05-e5e4eb5f081b",
+    "data": [
+      {
+        "text": "apple juoce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3412c131-c7e7-482c-bf1a-f90d284e4914",
+    "data": [
+      {
+        "text": "white",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " wine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f39db8e-4546-4c58-bab9-6585502cb3f4",
+    "data": [
+      {
+        "text": "wine",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa700904-337f-4bd0-ba23-860435fa6a3e",
+    "data": [
+      {
+        "text": "red wine",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9739ebfa-9986-4f88-8027-ae7325c5f7b5",
+    "data": [
+      {
+        "text": "tap water",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a84b64c-b2e7-4ea4-96fb-72e6ae03effc",
+    "data": [
+      {
+        "text": "water please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "f2a485ed-16bd-46c4-86a5-ea8e5caced92",
+  "name": "time_needed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry to keep you waiting. We are ensuring health and safety of our customers and staff, and practising social distancing measures in the kitchen. Food preparation may took longer than usual. We are trying our best to deliver food as soon as possible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
